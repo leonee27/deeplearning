@@ -1,0 +1,35 @@
+Convolutional Neuro Net
+https://www.youtube.com/watch?v=KkwX7FkLfug
+
+书籍资源：
+•	Regression
+o	Machine Learning a Probabilistic Perspective, Chapter 7 pp 217 – 238
+o	机器学习实战, Chapter 8 pp 136 – 158
+o	Machine Learning a Algorithmic Perspective, pp 41 – 44
+o	Elements of Statistical Learning, pp 43 – 93
+•	Logistic Regression
+o	机器学习实战, Chapter 5 pp 73 – 88, Chapter 7 pp 127 – 132
+o	Machine Learning a Probabilistic Perspective, Chapter 8 pp 217 – 238
+o	统计学习方法, Chapter 6
+•	Clustering (K-means)
+o	机器学习实战， pp 185 – 239
+o	Machine Learning a Probabilistic Perspective, pp 875 – 901
+o	大数据：互联网大规模数据挖掘与分布式处理, pp 170 – 205
+•	Naïve Bayes
+o	Programming Collective Intelligence, Chapter 6 (建议通读一遍)
+o	机器学习实战, Chapter 4
+•	Neural Networks
+o	Elements of Statistical Learning, pp 385 – 419
+o	Programming Collective Intelligence, Chapter 4
+•	Decision Tree
+o	机器学习实战, Chapter 3
+•	KNN
+o	机器学习实战, Chapter 2
+•	Knowledge Graph
+o	Elements of Statistical Learning, Chapter 7
+o	Programming Collective Intelligence, Chapter 2 (recommendation)
+•	Deep Learning
+o	Deep Learning, Chapter 6, 7, 9, 10, 12 (偏理论)
+o	Hands on Machine Learning with Scikit-learn and TensorFlow
+o	Udacity, Deep Learning
+o	Coursera, Deep Learning
